@@ -24,7 +24,7 @@ To install and run StockBot, follow the steps below.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Tescan-group/whatsapp-bot.git
-   cd stockbot
+   cd whatsapp-bot
    ```
 
 2. **Install Required Packages**
