@@ -107,6 +107,7 @@ The bot will respond with messages indicating the stock levels or error messages
 ## Screenshots
 
 Include screenshots here to show the WhatsApp conversation flow with StockBot. (The screenshots example was in a different language as the commands were set to be in Portuguese at the time.)
+
 <img height="250" alt="Screenshot 2024-11-12 at 3 19 35 AM" src="https://github.com/user-attachments/assets/20b021e9-08bc-4b15-b572-6c8472d110da">
 <img height="250" alt="Screenshot 2024-11-12 at 3 19 35 AM" src="https://github.com/user-attachments/assets/1c1931b3-64bb-40d4-ac3d-64144bd727f3">
 
